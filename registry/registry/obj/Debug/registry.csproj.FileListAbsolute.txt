@@ -1,0 +1,9 @@
+C:\Users\MAK\Desktop\Registry_HomeWork\registry\registry\bin\Debug\registry.exe.config
+C:\Users\MAK\Desktop\Registry_HomeWork\registry\registry\bin\Debug\registry.exe
+C:\Users\MAK\Desktop\Registry_HomeWork\registry\registry\bin\Debug\registry.pdb
+C:\Users\MAK\Desktop\Registry_HomeWork\registry\registry\obj\Debug\registry.csprojResolveAssemblyReference.cache
+C:\Users\MAK\Desktop\Registry_HomeWork\registry\registry\obj\Debug\registry.Form1.resources
+C:\Users\MAK\Desktop\Registry_HomeWork\registry\registry\obj\Debug\registry.Properties.Resources.resources
+C:\Users\MAK\Desktop\Registry_HomeWork\registry\registry\obj\Debug\registry.csproj.GenerateResource.Cache
+C:\Users\MAK\Desktop\Registry_HomeWork\registry\registry\obj\Debug\registry.exe
+C:\Users\MAK\Desktop\Registry_HomeWork\registry\registry\obj\Debug\registry.pdb
