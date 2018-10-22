@@ -7,3 +7,13 @@ C:\Users\MAK\Desktop\Registry_HomeWork\registry\registry\obj\Debug\registry.Prop
 C:\Users\MAK\Desktop\Registry_HomeWork\registry\registry\obj\Debug\registry.csproj.GenerateResource.Cache
 C:\Users\MAK\Desktop\Registry_HomeWork\registry\registry\obj\Debug\registry.exe
 C:\Users\MAK\Desktop\Registry_HomeWork\registry\registry\obj\Debug\registry.pdb
+D:\Git_Files\Registry_HomeWork\registry\registry\bin\Debug\registry.exe.config
+D:\Git_Files\Registry_HomeWork\registry\registry\bin\Debug\registry.exe
+D:\Git_Files\Registry_HomeWork\registry\registry\bin\Debug\registry.pdb
+D:\Git_Files\Registry_HomeWork\registry\registry\obj\Debug\registry.csprojAssemblyReference.cache
+D:\Git_Files\Registry_HomeWork\registry\registry\obj\Debug\registry.Form1.resources
+D:\Git_Files\Registry_HomeWork\registry\registry\obj\Debug\registry.Properties.Resources.resources
+D:\Git_Files\Registry_HomeWork\registry\registry\obj\Debug\registry.csproj.GenerateResource.cache
+D:\Git_Files\Registry_HomeWork\registry\registry\obj\Debug\registry.csproj.CoreCompileInputs.cache
+D:\Git_Files\Registry_HomeWork\registry\registry\obj\Debug\registry.exe
+D:\Git_Files\Registry_HomeWork\registry\registry\obj\Debug\registry.pdb
